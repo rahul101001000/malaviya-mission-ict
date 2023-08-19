@@ -7,7 +7,9 @@ has_children: true
 
 ## This is the home page for the sub-theme Modern techniques of ICT in Education
 
+
 **Tentative topic list**
+
 Technology in Education and Technology of Education - Computer Assisted Instruction (CAI),
 Computer Managed Learning (CML), and Computer Based Learning (CBL). Innovative models for delivery of higher education, Development of e-resources. MS Office, Mailing, Working on
 Synchronous and Asynchronous Modes, Tele- conferencing – Knowledge and Proficiency in
